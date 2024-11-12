@@ -34,20 +34,6 @@ A MongoDB-based e-commerce platform managing customer and order relationships.
 - JavaScript/Node.js
 - Database relationships
 
-## Repository Structure
-
-```
-nexturn-assignments/
-├── product-management/
-│   ├── src/
-│   ├── data/
-│   └── README.md
-└── mongodb-ecommerce/
-    ├── queries/
-    ├── schemas/
-    └── README.md
-```
-
 ## Skills Demonstrated
 - Database design
 - Data modeling
